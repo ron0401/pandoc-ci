@@ -27,6 +27,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ronkabu0401/pandoc-ci:tagname
+          tags: ronkabu0401/pandoc-ci:latest
           labels: ronkabu0401.pandoc.ci.source=https://github.com/ron0401/pandoc-ci.git
       
